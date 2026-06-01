@@ -93,7 +93,6 @@ Users can dynamically filter data based on:
 ---
 
 ## 📂 Project Files
-- `Blinkit_Dashboard.pbix`
 - `Dataset.xlsx`
 - `Dashboard_Screenshot.png`
 
